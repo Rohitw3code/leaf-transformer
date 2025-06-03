@@ -10,6 +10,8 @@ The Barnsley fern is a fractal named after mathematician Michael Barnsley. It’
 
 Each transformation in the IFS is an **affine transformation** of the form:
 
+![Formula](https://raw.githubusercontent.com/Rohitw3code/leaf-transformer/refs/heads/main/formula.png)
+
 \[
 \begin{bmatrix}
 x_{n+1} \\
